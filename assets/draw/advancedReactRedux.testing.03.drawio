@@ -1,1 +1,156 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T12:29:18.195Z" agent="5.0 (X11)" version="14.6.11" etag="oY9jAKvltAIVcKKK2eD1" type="github"><diagram id="OV4i3EPiNZKbWgcswj3A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-08T13:22:59.491Z" agent="5.0 (X11)" etag="Tx_wy8H6HuXz-RW7Lkfl" version="14.6.11" type="github">
+  <diagram id="OV4i3EPiNZKbWgcswj3A" name="Page-1">
+    <mxGraphModel dx="864" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-2" value="App&#39;s secret internal workings" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-3" value="App" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Zz1iQ8nHaRTQrOJkQAp-8" target="-Zz1iQ8nHaRTQrOJkQAp-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="180" />
+              <mxPoint x="200" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-19" value="&lt;font color=&quot;#D6CE89&quot;&gt;Ok&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Zz1iQ8nHaRTQrOJkQAp-12">
+          <mxGeometry x="0.28" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Zz1iQ8nHaRTQrOJkQAp-8" target="-Zz1iQ8nHaRTQrOJkQAp-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="210" />
+              <mxPoint x="200" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-40" value="&lt;font color=&quot;#FF0000&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Zz1iQ8nHaRTQrOJkQAp-31">
+          <mxGeometry x="0.2762" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-9" value="App.test.js" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="30" y="185" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-24" value="CB&#39;s secret internal workings" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-25" value="CommentBox" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="230" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-26" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-27" value="CommentList.test.js" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="347.5" width="117.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-34" value="CL &#39;s secret internal workings" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-38" value="&lt;div&gt;CommentList &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="40" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-39" value="CommentBox.test.js" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="117.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-41" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="420" y="60" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-42" value="App&#39;s secret internal workings" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-43" value="App" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Zz1iQ8nHaRTQrOJkQAp-48" target="-Zz1iQ8nHaRTQrOJkQAp-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="180" />
+              <mxPoint x="600" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-45" value="&lt;font color=&quot;#D6CE89&quot;&gt;Ok&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Zz1iQ8nHaRTQrOJkQAp-44">
+          <mxGeometry x="0.28" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Zz1iQ8nHaRTQrOJkQAp-48" target="-Zz1iQ8nHaRTQrOJkQAp-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="180" />
+              <mxPoint x="600" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-47" value="&lt;font color=&quot;#FF0000&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Zz1iQ8nHaRTQrOJkQAp-46">
+          <mxGeometry x="0.2762" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-49" value="App.test.js" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="430" y="185" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-50" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-51" value="CB&#39;s secret internal workings" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="670" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-52" value="CommentBox" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="677.5" y="230" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-53" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-54" value="CommentList.test.js" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="347.5" width="117.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="660" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-56" value="CL &#39;s secret internal workings" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="670" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-57" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-58" value="&lt;div&gt;CommentList &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="677.5" y="40" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Zz1iQ8nHaRTQrOJkQAp-59" value="CommentBox.test.js" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="117.5" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
