@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  client.testing:
+    image: testing/react
+    stdin_open: true
+    container_name: client.testing
+    volumes:
+      - ../client:/client.testing/
+      - /client.testing/node_modules/
+    ports:
+    - 3012:3000
+    build:
+      context: ../client/
+      dockerfile: config/docker/Dockerfile
+    environment:
+      - NODE_ENV=development
+    restart: always
