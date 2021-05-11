@@ -1,6 +1,6 @@
-import React from "react";
-import CommentBox from "./CommentBox";
-import CommentList from "./CommentList";
+import React from 'react'
+import CommentBox from 'components/CommentBox'
+import CommentList from 'components/CommentList'
 
 const App = () => {
 	return (
@@ -8,7 +8,7 @@ const App = () => {
 			<CommentBox />
 			<CommentList />
 		</div>
-	);
-};
+	)
+}
 
-export default App;
+export default App
