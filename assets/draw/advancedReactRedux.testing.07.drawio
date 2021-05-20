@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T17:51:29.521Z" agent="5.0 (X11)" version="14.6.13" etag="PbEv6PNtEHESztuyB1gH" type="github"><diagram id="1_qYWJJPuZRp9u3OZugv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-20T11:25:50.631Z" agent="5.0 (X11)" etag="CvCMQq7M8XspdfEPCiZ_" version="14.6.13" type="github">
+  <diagram id="1_qYWJJPuZRp9u3OZugv" name="Page-1">
+    <mxGraphModel dx="1021" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6zX9Jgb1mdH-lKJkwyi4-2" value="Find the textarea element" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="80" y="77" width="240" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="6zX9Jgb1mdH-lKJkwyi4-3" value="Simulate a &#39;change&#39; event" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="80" y="127" width="240" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="6zX9Jgb1mdH-lKJkwyi4-4" value="Provide a fake event object" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="80" y="177" width="240" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="6zX9Jgb1mdH-lKJkwyi4-5" value="Force the component to update" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="80" y="227" width="240" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="6zX9Jgb1mdH-lKJkwyi4-6" value="Assert that textareas value has changed" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="80" y="277" width="240" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="6zX9Jgb1mdH-lKJkwyi4-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Time&lt;/font&gt;&lt;/b&gt;" style="endArrow=classic;html=1;align=center;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="100" as="sourcePoint" />
+            <mxPoint x="40" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zX9Jgb1mdH-lKJkwyi4-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;i&gt;Simulates events&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
