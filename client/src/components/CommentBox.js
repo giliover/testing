@@ -28,7 +28,7 @@ class CommentBox extends Component {
 					onChange={this.handleChange}
 					value={this.state.comment}
 				/>
-				<button>Submit</button>
+				<button type="submit">Submit</button>
 			</form>
 		)
 	}
