@@ -25,7 +25,7 @@
                 <td>
                   <ol>
                     <li style="font-size: 0.6rem"> <a target="_blank" href="https://github.com/docker/compose">Documentation</a> </li>
-                    <li style="font-size: 0.6rem">App`s deployment script using the "docker-compose" command<br>run the following command on your konsole<br>
+                    <li style="font-size: 0.6rem">Application deployment script using the "docker-compose" command<br>run the following command on your konsole<br>
                       <table>
                         <thead>
                           <tr>
