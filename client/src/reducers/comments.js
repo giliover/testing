@@ -1,5 +1,11 @@
+import { SAVE_COMMENT } from 'actions/types'
+
 export default function (state = [], action) {
 	switch (action.type) {
+		case SAVE_COMMENT:
+			const { payload } = action
+			return [...state, payload]
+			break
 		default:
 			return state
 	}
