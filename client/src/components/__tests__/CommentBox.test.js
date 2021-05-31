@@ -1,11 +1,16 @@
 import React from 'react'
-import { shallow } from 'enzyme'
+import { mount } from 'enzyme'
 import CommentBox from 'components/CommentBox'
+import Root from 'Root'
 
 let wrapped
 
 beforeEach(() => {
-	wrapped = shallow(<CommentBox />)
+	wrapped = mount(
+		<Root>
+			<CommentBox />
+		</Root>
+	)
 })
 
 afterEach(() => {
